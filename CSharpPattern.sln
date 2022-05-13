@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "CSharpPattern\Linq.csproj", "{290FF88C-0555-4F0B-860C-E4902992C166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicIdiom", "BasicIdiom\BasicIdiom.csproj", "{03C9BF0F-00AC-4607-8311-20FB2073AEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290FF88C-0555-4F0B-860C-E4902992C166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290FF88C-0555-4F0B-860C-E4902992C166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290FF88C-0555-4F0B-860C-E4902992C166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290FF88C-0555-4F0B-860C-E4902992C166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C9BF0F-00AC-4607-8311-20FB2073AEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C9BF0F-00AC-4607-8311-20FB2073AEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C9BF0F-00AC-4607-8311-20FB2073AEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C9BF0F-00AC-4607-8311-20FB2073AEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02475705-98B1-4109-B1F7-E13819AC6D9F}
+	EndGlobalSection
+EndGlobal
